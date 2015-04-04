@@ -1,0 +1,11 @@
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Projects\Unity5\WorldInsight\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Projects\Unity5\WorldInsight\obj\Debug\UnityVS.WorldInsight.CSharp.csprojResolveAssemblyReference.cache
+D:\Projects\Unity5\WorldInsight\obj\Debug\Assembly-CSharp.dll
+D:\Projects\Unity5\WorldInsight\obj\Debug\Assembly-CSharp.pdb
